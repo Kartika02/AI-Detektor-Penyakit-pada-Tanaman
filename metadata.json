@@ -1,0 +1,5 @@
+{
+  "name": "Detektor Penyakit Tanaman AI",
+  "description": "Unggah foto tanaman untuk mendeteksi penyakit menggunakan AI. Dapatkan analisis, gejala, dan saran pengobatan.",
+  "requestFramePermissions": []
+}
